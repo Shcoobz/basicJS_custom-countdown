@@ -121,11 +121,11 @@ function updateCountdown(e) {
  * Resets the countdown timer and all related UI elements to their default state.
  */
 function resetAllValues() {
-  clearInterval(countdownActive);
-
   countdownEl.hidden = true;
   completeEl.hidden = true;
   inputContainer.hidden = false;
+
+  clearInterval(countdownActive);
 
   countdownTitle = '';
   countdownDate = '';
@@ -148,10 +148,10 @@ function restorePreviousCountdown() {
   }
 }
 
-// Setting up event listeners for form submission and button clicks.
+// Setting up event listeners for form submission and button clicks
 countdownForm.addEventListener('submit', updateCountdown);
 countdownBtn.addEventListener('click', resetAllValues);
 completeBtn.addEventListener('click', resetAllValues);
 
-// Attempt to restore a previous countdown when the page loads.
+// Attempt to restore a previous countdown when the page loads
 restorePreviousCountdown();
