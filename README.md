@@ -4,7 +4,7 @@
 
 ## Summary
 
-Welcome to Custom Countdown! This application allows users to create and customize countdowns for various events or occasions. It features a user-friendly interface and essential functionalities for managing countdowns.
+Custom Countdown allows users to create and customize countdowns for various events or occasions. It features a user-friendly interface and essential functionalities for managing countdowns.
 
 The core functionality includes:
 
