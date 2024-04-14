@@ -1,6 +1,6 @@
-# [LIVE DEMO](https://shcoobz.github.io/custom-countdown/) -> Custom Countdown
+# basicJS_Custom Countdown: [LIVE DEMO](https://shcoobz.github.io/basicJS_custom-countdown/)
 
-![Project Image](img/custom-countdown.png)
+![Project Image](img/basicJS_custom-countdown.png)
 
 ## Summary
 
