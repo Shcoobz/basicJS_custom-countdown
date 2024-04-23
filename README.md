@@ -35,3 +35,5 @@ Users can reset the countdown at any time, clearing the current countdown and al
 ---
 
 _Note: This document provides an overview of Custom Countdown. For detailed instructions and more information, please refer to the source code documentation._
+
+_This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_custom-countdown/). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability._
